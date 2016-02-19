@@ -1,2 +1,2 @@
-Please look at SQList.txt
-This was made by Wilser Tirado Calderon.
+Made by Wilser Tirado Calderon.
+http://forum.maxthon.com/index.php?/profile/349134-wilser-%E3%83%84/

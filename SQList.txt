@@ -1,8 +1,3 @@
-# Filter-List
-Filter list for uBlock, uBlock Origin, Adblock Plus, and Adblock.
-This filter list was made by Wilser Tirado Calderon.
-http://www.forum.maxthon.com/
-
 [Adblock Plus 2.0]
 !!-------------------------------------------------------------!!
 ! Autor: Wilser
@@ -6254,10 +6249,3 @@ youtube.com##[class="annotation annotation-type-text"]
 youtube.com##[class="annotation-shape annotation-popup-shape annotation-type-text"]
 youtube.com##[class="annotation-shape annotation-speech-shape annotation-type-text"]
 youtube.com##a[href^="https://www.youtube.com/cthru?"]
-
-
-For link and title:
-
-• Subscription Title: SQList
-
-• Filter List Location: https://drive.google.com/uc?export=download&id=0B9sxnixlgUxHT2RiZ0ozRVlpSTA
